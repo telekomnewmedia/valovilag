@@ -13,4 +13,4 @@ Hivatalos asztali alkalmazások a zavartalan műsor visszanézéshez.
 
 
 
-<img src="http://telekomnewmedia.hu/images/index.jpg" />
+<img src="https://camo.githubusercontent.com/b6de70b7e0de77339125593b6ef1d0272f628ef2/687474703a2f2f74656c656b6f6d6e65776d656469612e68752f696d616765732f696e6465782e6a7067" />
