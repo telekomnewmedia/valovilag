@@ -2,7 +2,7 @@
 
 Hivatalos asztali alkalmazások a zavartalan műsor visszanézéshez.
 
-## Letoltes
+## Letöltés
 
 [ValoVilag9 (Windows)](https://github.com/telekomnewmedia/valovilag/releases/download/1.0/ValoVilag9.Asztali.exe)
 
